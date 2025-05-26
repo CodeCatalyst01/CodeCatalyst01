@@ -57,6 +57,12 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
+## 📝 My Latest Blog
+
+📖 [7 Trends in Machine Learning You Can't Miss by 2025](https://medium.com/@atharva7555/7-trends-in-machine-learning-you-cant-miss-by-2025-52c8ef3cebba)  
+By Atharva Sonawane on Medium
+
+
 <h3 align="left">🔥   My Stats :</h3>
 
 <div align="center">
