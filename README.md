@@ -19,16 +19,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=codecatalyst01&theme=monokai&row=1&margin-w=15&no-frame=true" alt="GitHub Trophies"/>
-  </a>
-</p>
-
----
-
 ### 🧠 About Me
 
 - 💽 Currently building: **Speakify Telegram Bot**  
