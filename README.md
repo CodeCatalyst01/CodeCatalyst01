@@ -33,12 +33,14 @@
 
 ### 📝 My Latest Blog
 
-📖 [7 Trends in Machine Learning You Can't Miss by 2025**](https://medium.com/@atharva7555/7-trends-in-machine-learning-you-cant-miss-by-2025-52c8ef3cebba)  
+📖 [7 Trends in Machine Learning You Can't Miss by 2025](https://medium.com/@atharva7555/7-trends-in-machine-learning-you-cant-miss-by-2025-52c8ef3cebba)  
+
 ✍️ *By Atharva Sonawane on Medium*
 
 [![Read on Medium](https://img.shields.io/badge/Read%20on-Medium-black?logo=medium&style=for-the-badge)](https://medium.com/@atharva7555/7-trends-in-machine-learning-you-cant-miss-by-2025-52c8ef3cebba)
 
-📘 [When Machine Learning is Biased: The Damage it Causes on People](https://medium.com/@atharva7555/when-machine-learning-is-biased-the-damage-it-causes-on-people-340421795e87)**  
+📘 [When Machine Learning is Biased: The Damage it Causes on People](https://medium.com/@atharva7555/when-machine-learning-is-biased-the-damage-it-causes-on-people-340421795e87)
+
 ✍️ *By Atharva Sonawane on Medium*
 
 [![Read on Medium](https://img.shields.io/badge/Read%20on-Medium-black?logo=medium&style=for-the-badge)](https://medium.com/@atharva7555/when-machine-learning-is-biased-the-damage-it-causes-on-people-340421795e87)
