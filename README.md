@@ -45,11 +45,11 @@
 
 [![Read on Medium](https://img.shields.io/badge/Read%20on-Medium-black?logo=medium&style=for-the-badge)](https://medium.com/@atharva7555/when-machine-learning-is-biased-the-damage-it-causes-on-people-340421795e87)
 
-📖 [How to Fine-Tune BERT for NLP Tasks](https://mlwithatharva.blogspot.com/2025/06/how-to-fine-tune-bert-for-nlp-tasks.html)
+📖 [How to Fine-Tune BERT for NLP Tasks](https://www.blogger.com/blog/posts/6579763014080100102?hl=en&tab=jj)
 
 ✍️ *By Atharva Sonawane on Blogger*
 
-[![Read on Blogger](https://img.shields.io/badge/Read%20on-Blogger-orange?logo=blogger&style=for-the-badge)](https://mlwithatharva.blogspot.com/2025/06/how-to-fine-tune-bert-for-nlp-tasks.html)
+[![Read on Blogger](https://img.shields.io/badge/Read%20on-Blogger-orange?logo=blogger&style=for-the-badge)](https://www.blogger.com/blog/posts/6579763014080100102?hl=en&tab=jj)
 
 ---
 
